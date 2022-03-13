@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "vEbMin+4YrVGaanSbJmlBKcRbVINTGy+P3VLfBR6Lko0ZW0SmXcx7MxWkbhIlCPAbdf9sthCvgwyskT9HNEtrw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\eliij\\Documents\\My Games\\Terraria\\ModLoader\\Mod Sources\\IceManTest\\IceManTest.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\eliij\\.nuget\\packages\\tmodloader.codeassist\\0.1.3\\tmodloader.codeassist.0.1.3.nupkg.sha512"
+  ],
+  "logs": []
+}

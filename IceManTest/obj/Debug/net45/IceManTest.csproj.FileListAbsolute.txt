@@ -1,0 +1,5 @@
+C:\Users\eliij\Documents\My Games\Terraria\ModLoader\Mod Sources\IceManTest\obj\Debug\net45\IceManTest.csproj.AssemblyReference.cache
+C:\Users\eliij\Documents\My Games\Terraria\ModLoader\Mod Sources\IceManTest\obj\Debug\net45\IceManTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\eliij\Documents\My Games\Terraria\ModLoader\Mod Sources\IceManTest\obj\Debug\net45\IceManTest.AssemblyInfoInputs.cache
+C:\Users\eliij\Documents\My Games\Terraria\ModLoader\Mod Sources\IceManTest\obj\Debug\net45\IceManTest.AssemblyInfo.cs
+C:\Users\eliij\Documents\My Games\Terraria\ModLoader\Mod Sources\IceManTest\obj\Debug\net45\IceManTest.csproj.CoreCompileInputs.cache
